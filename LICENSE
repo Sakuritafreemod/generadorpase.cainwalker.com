@@ -1,28 +1,70 @@
-BSD 3-Clause License
+The MIT License (MIT)
 
-Copyright (c) 2025, Sakuritafreemod
+Copyright (c) 2025 JoseGilberto Martinez Gonzalez
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
 
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
 
-3. Neither the name of the copyright holder nor the names of its
-   contributors may be used to endorse or promote products derived from
-   this software without specific prior written permission.
+---
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+This project includes a set of images used in the Free Fire Generator:
+
+Diamantes:
+https://f1.zukpe.online/public/lg/ff/diamantes/1739427562_100.jpeg
+https://f1.zukpe.online/public/lg/ff/diamantes/1739427562_310.jpeg
+https://f1.zukpe.online/public/lg/ff/diamantes/1739427562_520.jpeg
+https://f1.zukpe.online/public/lg/ff/diamantes/1739427562_1060.jpeg
+https://f1.zukpe.online/public/lg/ff/diamantes/1739427562_2180.jpeg
+https://f1.zukpe.online/public/lg/ff/diamantes/1739427562_5600.jpeg
+https://f1.zukpe.online/public/lg/ff/diamantes/1742148127_IMG_1739.PNG
+
+Trajes:
+https://f1.zukpe.online/public/lg/ff/trajes/1739426343_n1.PNG
+https://f1.zukpe.online/public/lg/ff/trajes/1739426343_n2.PNG
+https://f1.zukpe.online/public/lg/ff/trajes/1739426343_n3.PNG
+https://f1.zukpe.online/public/lg/ff/trajes/1739426343_n4.PNG
+https://f1.zukpe.online/public/lg/ff/trajes/1739426343_n5.PNG
+https://f1.zukpe.online/public/lg/ff/trajes/1741999859_Captura de pantalla 2025-03-14 194826.png
+https://f1.zukpe.online/public/lg/ff/trajes/1742000033_Captura de pantalla 2025-03-14 195320.png
+https://f1.zukpe.online/public/lg/ff/trajes/1742000033_Captura de pantalla 2025-03-14 195324.png
+https://f1.zukpe.online/public/lg/ff/trajes/1742000033_Captura de pantalla 2025-03-14 195328.png
+https://f1.zukpe.online/public/lg/ff/trajes/1742000033_Captura de pantalla 2025-03-14 195332.png
+https://f1.zukpe.online/public/lg/ff/trajes/1742007732_Captura de pantalla 2025-03-14 220101.png
+https://f1.zukpe.online/public/lg/ff/trajes/1742007732_Captura de pantalla 2025-03-14 220107.png
+https://f1.zukpe.online/public/lg/ff/trajes/1742007732_Captura de pantalla 2025-03-14 220114.png
+https://f1.zukpe.online/public/lg/ff/trajes/1742007732_Captura de pantalla 2025-03-14 220118.png
+https://f1.zukpe.online/public/lg/ff/trajes/1742007732_Captura de pantalla 2025-03-14 220124.png
+https://f1.zukpe.online/public/lg/ff/trajes/1742007732_Captura de pantalla 2025-03-14 220128.png
+https://f1.zukpe.online/public/lg/ff/trajes/1742007732_Captura de pantalla 2025-03-14 220134.png
+https://f1.zukpe.online/public/lg/ff/trajes/1742007996_Captura de pantalla 2025-03-14 215020.png
+https://f1.zukpe.online/public/lg/ff/trajes/1742007996_Captura de pantalla 2025-03-14 215025.png
+https://f1.zukpe.online/public/lg/ff/trajes/1742007996_Captura de pantalla 2025-03-14 215052.png
+https://f1.zukpe.online/public/lg/ff/trajes/1742007996_Captura de pantalla 2025-03-14 215058.png
+
+Ropa:
+https://f1.zukpe.online/public/lg/ff/ropa/1741999989_1739426343_n8.png
+https://f1.zukpe.online/public/lg/ff/ropa/1742007331_Captura de pantalla 2025-03-14 215210.png
+https://f1.zukpe.online/public/lg/ff/ropa/1742007331_Captura de pantalla 2025-03-14 215214.png
+https://f1.zukpe.online/public/lg/ff/ropa/1742007331_Captura de pantalla 2025-03-14 215218.png
+https://f1.zukpe.online/public/lg/ff/ropa/1742007331_Captura de pantalla 2025-03-14 215225.png
+https://f1.zukpe.online/public/lg/ff/ropa/1742007331_Captura de pantalla 2025-03-14 215251.png
+https://f1.zukpe.online/public/lg/ff/ropa/1742007331_Captura de pantalla 2025-03-14 215255.png
+https://f1.zukpe.online/public/lg/ff/ropa/1742007331_Captura de pantalla 2025-03-14 215258.png
+https://f1.zukpe.online/public/lg/ff/ropa/1742007331_Captura de pantalla 2025-03-14 215302.png
+https://f1.zukpe.online/public/lg/ff/ropa/1742007331_Captura de pantalla 2025-03-14 215305.png
+https://f1.zukpe.online/public/lg/ff/ropa/1742007331_Captura de pantalla 2025-03-14
